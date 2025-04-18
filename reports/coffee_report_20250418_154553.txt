@@ -1,0 +1,98 @@
+咖啡生豆价格数据摘要
+数据更新时间: 2025-04-18 15:45:53
+美元兑人民币汇率: 7.302003
+
+Brazil (3个产品):
+  平均单价: ¥122.07/kg
+  最低单价: ¥102.22/kg - Brazil Dry Process São Joaquim Farm (Coffee Shrub)
+  最高单价: ¥133.61/kg - Brazil Dry Process São Joaquim Farm (Sweet Marias)
+
+Burundi (5个产品):
+  平均单价: ¥157.44/kg
+  最低单价: ¥99.81/kg - Burundi Kabarore Commune Yandaro (Coffee Shrub)
+  最高单价: ¥321.96/kg - Roasted Coffee  4/15: Burundi Kayanza Kibingo Station (Sweet Marias)
+
+Colombia (6个产品):
+  平均单价: ¥132.16/kg
+  最低单价: ¥102.22/kg - Colombia Inzá Vereda Belén (Coffee Shrub)
+  最高单价: ¥154.54/kg - Colombia Samaria Farm EA Decaf (Sweet Marias)
+
+Costa Rica (3个产品):
+  平均单价: ¥132.81/kg
+  最低单价: ¥121.54/kg - Costa Rica Palmichal Los Santos (Sweet Marias)
+  最高单价: ¥139.25/kg - Costa Rica Yellow Honey Don Mayo (Sweet Marias)
+
+El Salvador (1个产品):
+  平均单价: ¥113.49/kg
+  最低单价: ¥113.49/kg - El Salvador Atiquizaya Castillo (Sweet Marias)
+  最高单价: ¥113.49/kg - El Salvador Atiquizaya Castillo (Sweet Marias)
+
+Ethiopia (10个产品):
+  平均单价: ¥131.40/kg
+  最低单价: ¥106.25/kg - Ethiopia Guji Benti Nenka (Coffee Shrub)
+  最高单价: ¥156.96/kg - Ethiopia Godina Guji SWP Decaf (Sweet Marias)
+
+Guatemala (8个产品):
+  平均单价: ¥152.53/kg
+  最低单价: ¥107.05/kg - Guatemala Xinabajul Rosalio Villatoro (Coffee Shrub)
+  最高单价: ¥321.96/kg - Roasted Coffee  4/15: Guatemala Libertad Aurelio del Cerro (Sweet Marias)
+
+Honduras (4个产品):
+  平均单价: ¥126.37/kg
+  最低单价: ¥109.47/kg - Honduras Edwin Ever Sabillon Parainema (Coffee Shrub)
+  最高单价: ¥143.27/kg - Honduras Teodosa Moreno Parainema (Sweet Marias)
+
+India (2个产品):
+  平均单价: ¥116.31/kg
+  最低单价: ¥115.10/kg - India Muthodi Garige Khan Estate (Sweet Marias)
+  最高单价: ¥117.52/kg - India Yercaud Balmadi Estate (Sweet Marias)
+
+Indonesia (1个产品):
+  平均单价: ¥142.47/kg
+  最低单价: ¥142.47/kg - Indonesia Nusantara SWP Decaf (Sweet Marias)
+  最高单价: ¥142.47/kg - Indonesia Nusantara SWP Decaf (Sweet Marias)
+
+Java (10个产品):
+  平均单价: ¥164.12/kg
+  最低单价: ¥104.64/kg - Java Sunda Wet Process Siki Alit (Coffee Shrub)
+  最高单价: ¥523.19/kg - Set: DIY Moka Java Blend Set (Sweet Marias)
+
+Kenya (9个产品):
+  平均单价: ¥150.61/kg
+  最低单价: ¥111.88/kg - Kenya Nyeri Chinga AB (Coffee Shrub)
+  最高单价: ¥267.23/kg - Kenya Nyeri Rukira Peaberry (Sweet Marias)
+
+Nicaragua (4个产品):
+  平均单价: ¥124.56/kg
+  最低单价: ¥107.86/kg - Nicaragua Buenos Aires Java (Coffee Shrub)
+  最高单价: ¥139.25/kg - Nicaragua Buenos Aires Java (Sweet Marias)
+
+Peru (3个产品):
+  平均单价: ¥121.27/kg
+  最低单价: ¥102.22/kg - Peru Cajamarca Las Delicias (Coffee Shrub)
+  最高单价: ¥133.61/kg - Peru Cajamarca Las Delicias (Sweet Marias)
+
+Rwanda (12个产品):
+  平均单价: ¥118.45/kg
+  最低单价: ¥94.98/kg - Rwanda Milles Collines Peaberry (Coffee Shrub)
+  最高单价: ¥140.86/kg - Rwanda Dry Process Macuba (Sweet Marias)
+
+Sulawesi (4个产品):
+  平均单价: ¥137.44/kg
+  最低单价: ¥101.42/kg - Sulawesi Kahayya Village (Coffee Shrub)
+  最高单价: ¥185.93/kg - Sulawesi Dry Process Desa Topidi (Sweet Marias)
+
+Tanzania (4个产品):
+  平均单价: ¥125.16/kg
+  最低单价: ¥107.86/kg - Tanzania Mbozi Lukululu Peaberry (Coffee Shrub)
+  最高单价: ¥142.47/kg - Tanzania Ruvuma Makonga Peaberry (Sweet Marias)
+
+Yemen (1个产品):
+  平均单价: ¥178.69/kg
+  最低单价: ¥178.69/kg - Yemen Mokha Sanani (Sweet Marias)
+  最高单价: ¥178.69/kg - Yemen Mokha Sanani (Sweet Marias)
+
+未知产地 (39个产品):
+  平均单价: ¥299.41/kg
+  最低单价: ¥94.17/kg - Sweet Maria's Espresso Monkey Blend (Coffee Shrub)
+  最高单价: ¥1263.70/kg - Set: 10 lb "XL" East Africa Set (Sweet Marias)
