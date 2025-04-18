@@ -1,0 +1,438 @@
+2025-04-18 14:06:56,987 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 14:07:03,697 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:07:04,684 - root - ERROR - 初始化Chrome驱动失败: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+	GetHandleVerifier [0x00924CA3+225091]
+	(No symbol) [0x00854DF1]
+	(No symbol) [0x006F9A7A]
+	(No symbol) [0x007166B3]
+	(No symbol) [0x007182C0]
+	(No symbol) [0x00715309]
+	(No symbol) [0x00756B59]
+	(No symbol) [0x007567C8]
+	(No symbol) [0x007579EC]
+	(No symbol) [0x0075790A]
+	(No symbol) [0x0074F2F6]
+	(No symbol) [0x007279B9]
+	(No symbol) [0x0072879D]
+	sqlite3_dbdata_init [0x00D99A43+4064547]
+	sqlite3_dbdata_init [0x00DA104A+4094762]
+	sqlite3_dbdata_init [0x00D9B948+4072488]
+	sqlite3_dbdata_init [0x00A9C9A9+930953]
+	(No symbol) [0x008607C4]
+	(No symbol) [0x0085ACE8]
+	(No symbol) [0x0085AE11]
+	(No symbol) [0x0084CA80]
+	BaseThreadInitThunk [0x75AD7BA9+25]
+	RtlInitializeExceptionChain [0x76EBC2EB+107]
+	RtlClearBits [0x76EBC26F+191]
+
+2025-04-18 14:07:11,559 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:07:12,377 - __main__ - INFO - 应用了stealth JS脚本
+2025-04-18 14:07:12,378 - __main__ - INFO - 访问首页...
+2025-04-18 14:07:26,899 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:07:26,991 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 14:07:52,341 - __main__ - WARNING - 模拟用户行为失败: Message: move target out of bounds
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x005E8073+60707]
+	GetHandleVerifier [0x005E80B4+60772]
+	(No symbol) [0x004104FE]
+	(No symbol) [0x004A6CA2]
+	(No symbol) [0x0047D04C]
+	(No symbol) [0x0049E824]
+	(No symbol) [0x0047CE46]
+	(No symbol) [0x0044C5D3]
+	(No symbol) [0x0044D424]
+	GetHandleVerifier [0x0082BB53+2435075]
+	GetHandleVerifier [0x008270F3+2416035]
+	GetHandleVerifier [0x0084349C+2531660]
+	GetHandleVerifier [0x005FF145+155125]
+	GetHandleVerifier [0x00605AED+182173]
+	GetHandleVerifier [0x005EF948+91640]
+	GetHandleVerifier [0x005EFAF0+92064]
+	GetHandleVerifier [0x005DA5B0+4704]
+	BaseThreadInitThunk [0x75AD7BA9+25]
+	RtlInitializeExceptionChain [0x76EBC2EB+107]
+	RtlClearBits [0x76EBC26F+191]
+
+2025-04-18 14:08:07,343 - __main__ - INFO - 访问目标页面: https://www.coffeeshrub.com/collections/green-coffee
+2025-04-18 14:08:09,312 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:08:09,448 - __main__ - INFO - 找到页面内容: main
+2025-04-18 14:17:59,259 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 14:18:04,085 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:18:05,038 - root - ERROR - 初始化Chrome驱动失败: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+	GetHandleVerifier [0x01118073+60707]
+	GetHandleVerifier [0x011180B4+60772]
+	(No symbol) [0x00F40683]
+	(No symbol) [0x00F679DE]
+	(No symbol) [0x00F692C0]
+	(No symbol) [0x00F6444D]
+	(No symbol) [0x00FB7782]
+	(No symbol) [0x00FB71B2]
+	(No symbol) [0x00FB8976]
+	(No symbol) [0x00FB877A]
+	(No symbol) [0x00FACE46]
+	(No symbol) [0x00F7C5D3]
+	(No symbol) [0x00F7D424]
+	GetHandleVerifier [0x0135BB53+2435075]
+	GetHandleVerifier [0x013570F3+2416035]
+	GetHandleVerifier [0x0137349C+2531660]
+	GetHandleVerifier [0x0112F145+155125]
+	GetHandleVerifier [0x01135AED+182173]
+	GetHandleVerifier [0x0111F948+91640]
+	GetHandleVerifier [0x0111FAF0+92064]
+	GetHandleVerifier [0x0110A5B0+4704]
+	BaseThreadInitThunk [0x75AD7BA9+25]
+	RtlInitializeExceptionChain [0x76EBC2EB+107]
+	RtlClearBits [0x76EBC26F+191]
+
+2025-04-18 14:19:30,402 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 14:19:36,214 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:19:37,072 - __main__ - INFO - 应用了stealth JS脚本
+2025-04-18 14:19:37,072 - __main__ - INFO - 正在预热浏览器...
+2025-04-18 14:19:44,681 - __main__ - INFO - 访问Coffee Shrub首页...
+2025-04-18 14:19:50,268 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:19:50,324 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 14:20:07,355 - __main__ - INFO - 模拟用户交互行为...
+2025-04-18 14:20:11,264 - __main__ - WARNING - 模拟用户行为失败: Message: move target out of bounds
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00548073+60707]
+	GetHandleVerifier [0x005480B4+60772]
+	(No symbol) [0x003704FE]
+	(No symbol) [0x00406CA2]
+	(No symbol) [0x003DD04C]
+	(No symbol) [0x003FE824]
+	(No symbol) [0x003DCE46]
+	(No symbol) [0x003AC5D3]
+	(No symbol) [0x003AD424]
+	GetHandleVerifier [0x0078BB53+2435075]
+	GetHandleVerifier [0x007870F3+2416035]
+	GetHandleVerifier [0x007A349C+2531660]
+	GetHandleVerifier [0x0055F145+155125]
+	GetHandleVerifier [0x00565AED+182173]
+	GetHandleVerifier [0x0054F948+91640]
+	GetHandleVerifier [0x0054FAF0+92064]
+	GetHandleVerifier [0x0053A5B0+4704]
+	BaseThreadInitThunk [0x75AD7BA9+25]
+	RtlInitializeExceptionChain [0x76EBC2EB+107]
+	RtlClearBits [0x76EBC26F+191]
+
+2025-04-18 14:20:11,265 - __main__ - INFO - 访问目标页面: https://www.coffeeshrub.com/collections/green-coffee
+2025-04-18 14:20:14,629 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:20:14,835 - __main__ - INFO - 找到页面内容: main
+2025-04-18 14:22:33,527 - __main__ - INFO - 关闭WebDriver
+2025-04-18 14:22:36,819 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 14:22:41,654 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:22:42,501 - __main__ - INFO - 应用了stealth JS脚本
+2025-04-18 14:22:42,501 - __main__ - INFO - 正在预热浏览器...
+2025-04-18 14:23:05,823 - __main__ - INFO - 访问Coffee Shrub首页...
+2025-04-18 14:23:10,023 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:23:10,080 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 14:23:25,854 - __main__ - INFO - 模拟用户交互行为...
+2025-04-18 14:23:31,349 - __main__ - WARNING - 模拟用户行为失败: Message: move target out of bounds
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00468073+60707]
+	GetHandleVerifier [0x004680B4+60772]
+	(No symbol) [0x002904FE]
+	(No symbol) [0x00326CA2]
+	(No symbol) [0x002FD04C]
+	(No symbol) [0x0031E824]
+	(No symbol) [0x002FCE46]
+	(No symbol) [0x002CC5D3]
+	(No symbol) [0x002CD424]
+	GetHandleVerifier [0x006ABB53+2435075]
+	GetHandleVerifier [0x006A70F3+2416035]
+	GetHandleVerifier [0x006C349C+2531660]
+	GetHandleVerifier [0x0047F145+155125]
+	GetHandleVerifier [0x00485AED+182173]
+	GetHandleVerifier [0x0046F948+91640]
+	GetHandleVerifier [0x0046FAF0+92064]
+	GetHandleVerifier [0x0045A5B0+4704]
+	BaseThreadInitThunk [0x75AD7BA9+25]
+	RtlInitializeExceptionChain [0x76EBC2EB+107]
+	RtlClearBits [0x76EBC26F+191]
+
+2025-04-18 14:23:31,350 - __main__ - INFO - 访问目标页面: https://www.coffeeshrub.com/collections/green-coffee
+2025-04-18 14:23:33,716 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:23:33,863 - __main__ - INFO - 找到页面内容: main
+2025-04-18 14:24:02,242 - __main__ - INFO - 关闭WebDriver
+2025-04-18 14:24:06,918 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 14:24:12,344 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:24:13,197 - __main__ - INFO - 应用了stealth JS脚本
+2025-04-18 14:24:13,197 - __main__ - INFO - 正在预热浏览器...
+2025-04-18 14:24:20,773 - __main__ - INFO - 访问Coffee Shrub首页...
+2025-04-18 14:24:28,724 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:24:28,816 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 14:24:44,350 - __main__ - INFO - 模拟用户交互行为...
+2025-04-18 14:24:49,981 - __main__ - WARNING - 模拟用户行为失败: Message: move target out of bounds
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00628073+60707]
+	GetHandleVerifier [0x006280B4+60772]
+	(No symbol) [0x004504FE]
+	(No symbol) [0x004E6CA2]
+	(No symbol) [0x004BD04C]
+	(No symbol) [0x004DE824]
+	(No symbol) [0x004BCE46]
+	(No symbol) [0x0048C5D3]
+	(No symbol) [0x0048D424]
+	GetHandleVerifier [0x0086BB53+2435075]
+	GetHandleVerifier [0x008670F3+2416035]
+	GetHandleVerifier [0x0088349C+2531660]
+	GetHandleVerifier [0x0063F145+155125]
+	GetHandleVerifier [0x00645AED+182173]
+	GetHandleVerifier [0x0062F948+91640]
+	GetHandleVerifier [0x0062FAF0+92064]
+	GetHandleVerifier [0x0061A5B0+4704]
+	BaseThreadInitThunk [0x75AD7BA9+25]
+	RtlInitializeExceptionChain [0x76EBC2EB+107]
+	RtlClearBits [0x76EBC26F+191]
+
+2025-04-18 14:24:49,982 - __main__ - INFO - 访问目标页面: https://www.coffeeshrub.com/green-coffee.html?product_list_limit=all&sm_status=1
+2025-04-18 14:25:07,231 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:25:07,493 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 14:25:12,513 - __main__ - INFO - 页面加载完成，找到元素: .product-item
+2025-04-18 14:25:12,513 - __main__ - INFO - 等待JS完全加载...
+2025-04-18 14:25:32,514 - __main__ - INFO - 模拟用户浏览行为...
+2025-04-18 14:26:05,481 - __main__ - INFO - 页面加载完成，准备解析内容
+2025-04-18 14:26:05,525 - __main__ - INFO - 保存HTML到 F:\rawBeans\results\coffee_shrub_debug.html
+2025-04-18 14:26:05,526 - __main__ - INFO - 尝试使用选择器: .product-item
+2025-04-18 14:26:05,534 - __main__ - INFO - 使用选择器 '.product-item' 找到 41 个产品
+2025-04-18 14:26:05,695 - __main__ - INFO - 提取产品: Burundi Kabarore Commune Yandaro
+2025-04-18 14:26:05,771 - __main__ - INFO - 提取产品: Burundi Kayanza Kibingo Station
+2025-04-18 14:26:05,912 - __main__ - INFO - 提取产品: Ethiopia Dry Process Senna Katta Mountain
+2025-04-18 14:26:05,990 - __main__ - INFO - 提取产品: Ethiopia Dry Process Uraga Raro Boda
+2025-04-18 14:26:06,067 - __main__ - INFO - 提取产品: Ethiopia Dry Process Yirgacheffe Banko Gotiti
+2025-04-18 14:26:06,147 - __main__ - INFO - 提取产品: Ethiopia Guji Benti Nenka
+2025-04-18 14:26:06,267 - __main__ - INFO - 提取产品: Kenya Nyeri Chinga AB
+2025-04-18 14:26:06,349 - __main__ - INFO - 提取产品: Kenya Nyeri Kamoini AA
+2025-04-18 14:26:06,426 - __main__ - INFO - 提取产品: Rwanda Dry Process Macuba
+2025-04-18 14:26:06,502 - __main__ - INFO - 提取产品: Rwanda Milles Collines Peaberry
+2025-04-18 14:26:06,579 - __main__ - INFO - 提取产品: Rwanda Nyamasheke Gitwe
+2025-04-18 14:26:06,654 - __main__ - INFO - 提取产品: Rwanda Nyamasheke Nyungwe
+2025-04-18 14:26:06,744 - __main__ - INFO - 提取产品: Rwanda Rusizi Mushaka
+2025-04-18 14:26:06,827 - __main__ - INFO - 提取产品: Rwanda Rutsiro Mushonyi
+2025-04-18 14:26:06,902 - __main__ - INFO - 提取产品: Tanzania Mbozi Lukululu Peaberry
+2025-04-18 14:26:06,979 - __main__ - INFO - 提取产品: Tanzania Ruvuma Makonga Peaberry
+2025-04-18 14:26:07,054 - __main__ - INFO - 提取产品: Sweet Maria's 10 Speed Blend
+2025-04-18 14:26:07,169 - __main__ - INFO - 提取产品: Guatemala Libertad Aurelio del Cerro
+2025-04-18 14:26:07,250 - __main__ - INFO - 提取产品: Guatemala Patzún Finca Santa Anita
+2025-04-18 14:26:07,336 - __main__ - INFO - 提取产品: Guatemala Xinabajul Rosalio Villatoro
+2025-04-18 14:26:07,413 - __main__ - INFO - 提取产品: Honduras Edwin Ever Sabillon Parainema
+2025-04-18 14:26:07,487 - __main__ - INFO - 提取产品: Honduras Teodosa Moreno Parainema
+2025-04-18 14:26:07,569 - __main__ - INFO - 提取产品: Nicaragua Buenos Aires Java
+2025-04-18 14:26:07,642 - __main__ - INFO - 提取产品: Colombia Samaria Farm EA Decaf
+2025-04-18 14:26:07,718 - __main__ - INFO - 提取产品: East Africa Nya-Nye SWP Decaf
+2025-04-18 14:26:07,793 - __main__ - INFO - 提取产品: Ethiopia Godina Guji SWP Decaf
+2025-04-18 14:26:07,864 - __main__ - INFO - 提取产品: Sweet Marias Cordillera Central SWP Decaf
+2025-04-18 14:26:07,966 - __main__ - INFO - 提取产品: Flores Wet Hulled Turelelo
+2025-04-18 14:26:08,049 - __main__ - INFO - 提取产品: Java Sunda Anaerobic Honey Puncak Sirna
+2025-04-18 14:26:08,121 - __main__ - INFO - 提取产品: Java Sunda Cimara
+2025-04-18 14:26:08,195 - __main__ - INFO - 提取产品: Java Sunda Wet Hulled Laspada
+2025-04-18 14:26:08,273 - __main__ - INFO - 提取产品: Java Sunda Wet Process Siki Alit
+2025-04-18 14:26:08,347 - __main__ - INFO - 提取产品: Sulawesi Kahayya Village
+2025-04-18 14:26:08,423 - __main__ - INFO - 提取产品: Timor Leste Aifu Ermera
+2025-04-18 14:26:08,591 - __main__ - INFO - 提取产品: Colombia Inzá Vereda Belén
+2025-04-18 14:26:08,666 - __main__ - INFO - 提取产品: Peru Cajamarca Las Delicias
+2025-04-18 14:26:08,738 - __main__ - INFO - 提取产品: Sweet Maria's Decaf Espresso "Donkey" Blend
+2025-04-18 14:26:08,847 - __main__ - INFO - 提取产品: Sweet Maria's Espresso Monkey Blend
+2025-04-18 14:26:08,921 - __main__ - INFO - 提取产品: Sweet Maria's Ethiopiques Version 2.0
+2025-04-18 14:26:08,995 - __main__ - INFO - 提取产品: Sweet Maria's New Classic Espresso
+2025-04-18 14:26:08,995 - __main__ - INFO - 爬虫任务耗时 122.08 秒
+2025-04-18 14:26:08,996 - __main__ - INFO - 已保存 41 个产品到 F:\rawBeans\results\coffee_shrub_20250418_142608.json
+2025-04-18 14:26:08,996 - __main__ - INFO - 关闭WebDriver
+2025-04-18 14:30:11,012 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 14:30:16,481 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:30:17,335 - __main__ - INFO - 应用了stealth JS脚本
+2025-04-18 14:30:17,335 - __main__ - INFO - 正在预热浏览器...
+2025-04-18 14:30:21,135 - __main__ - INFO - 关闭WebDriver
+2025-04-18 14:30:49,057 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 14:30:54,925 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:30:55,765 - __main__ - INFO - 应用了stealth JS脚本
+2025-04-18 14:30:55,765 - __main__ - INFO - 正在预热浏览器...
+2025-04-18 14:31:03,643 - __main__ - INFO - 访问Coffee Shrub首页...
+2025-04-18 14:31:13,365 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:31:13,456 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 14:31:22,068 - __main__ - INFO - 关闭WebDriver
+2025-04-18 14:41:49,001 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 14:41:55,096 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:41:55,952 - __main__ - INFO - 应用了stealth JS脚本
+2025-04-18 14:41:55,952 - __main__ - INFO - 正在预热浏览器...
+2025-04-18 14:42:04,328 - __main__ - INFO - 访问Coffee Shrub首页...
+2025-04-18 14:42:09,256 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:42:09,317 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 14:42:25,260 - __main__ - INFO - 模拟用户交互行为...
+2025-04-18 14:42:31,774 - __main__ - WARNING - 模拟用户行为失败: Message: move target out of bounds
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x007C8073+60707]
+	GetHandleVerifier [0x007C80B4+60772]
+	(No symbol) [0x005F04FE]
+	(No symbol) [0x00686CA2]
+	(No symbol) [0x0065D04C]
+	(No symbol) [0x0067E824]
+	(No symbol) [0x0065CE46]
+	(No symbol) [0x0062C5D3]
+	(No symbol) [0x0062D424]
+	GetHandleVerifier [0x00A0BB53+2435075]
+	GetHandleVerifier [0x00A070F3+2416035]
+	GetHandleVerifier [0x00A2349C+2531660]
+	GetHandleVerifier [0x007DF145+155125]
+	GetHandleVerifier [0x007E5AED+182173]
+	GetHandleVerifier [0x007CF948+91640]
+	GetHandleVerifier [0x007CFAF0+92064]
+	GetHandleVerifier [0x007BA5B0+4704]
+	BaseThreadInitThunk [0x75AD7BA9+25]
+	RtlInitializeExceptionChain [0x76EBC2EB+107]
+	RtlClearBits [0x76EBC26F+191]
+
+2025-04-18 14:42:31,776 - __main__ - INFO - 访问目标页面: https://www.coffeeshrub.com/green-coffee.html?product_list_limit=all&sm_status=1
+2025-04-18 14:42:37,165 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 14:42:37,507 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 14:42:42,519 - __main__ - INFO - 页面加载完成，找到元素: .product-item
+2025-04-18 14:42:42,519 - __main__ - INFO - 等待JS完全加载...
+2025-04-18 14:43:02,519 - __main__ - INFO - 模拟用户浏览行为...
+2025-04-18 14:43:48,795 - __main__ - INFO - 页面加载完成，准备解析内容
+2025-04-18 14:43:48,830 - __main__ - INFO - 保存HTML到 F:\rawBeans\results\coffee_shrub_debug.html
+2025-04-18 14:43:48,830 - __main__ - INFO - 尝试使用选择器: .product-item
+2025-04-18 14:43:48,836 - __main__ - INFO - 使用选择器 '.product-item' 找到 41 个产品
+2025-04-18 14:43:48,935 - __main__ - INFO - 提取产品: Burundi Kabarore Commune Yandaro
+2025-04-18 14:43:49,002 - __main__ - INFO - 提取产品: Burundi Kayanza Kibingo Station
+2025-04-18 14:43:49,109 - __main__ - INFO - 提取产品: Ethiopia Dry Process Senna Katta Mountain
+2025-04-18 14:43:49,179 - __main__ - INFO - 提取产品: Ethiopia Dry Process Uraga Raro Boda
+2025-04-18 14:43:49,246 - __main__ - INFO - 提取产品: Ethiopia Dry Process Yirgacheffe Banko Gotiti
+2025-04-18 14:43:49,309 - __main__ - INFO - 提取产品: Ethiopia Guji Benti Nenka
+2025-04-18 14:43:49,374 - __main__ - INFO - 提取产品: Kenya Nyeri Chinga AB
+2025-04-18 14:43:49,438 - __main__ - INFO - 提取产品: Kenya Nyeri Kamoini AA
+2025-04-18 14:43:49,509 - __main__ - INFO - 提取产品: Rwanda Dry Process Macuba
+2025-04-18 14:43:49,576 - __main__ - INFO - 提取产品: Rwanda Milles Collines Peaberry
+2025-04-18 14:43:49,635 - __main__ - INFO - 提取产品: Rwanda Nyamasheke Gitwe
+2025-04-18 14:43:49,700 - __main__ - INFO - 提取产品: Rwanda Nyamasheke Nyungwe
+2025-04-18 14:43:49,766 - __main__ - INFO - 提取产品: Rwanda Rusizi Mushaka
+2025-04-18 14:43:49,828 - __main__ - INFO - 提取产品: Rwanda Rutsiro Mushonyi
+2025-04-18 14:43:49,892 - __main__ - INFO - 提取产品: Tanzania Mbozi Lukululu Peaberry
+2025-04-18 14:43:49,957 - __main__ - INFO - 提取产品: Tanzania Ruvuma Makonga Peaberry
+2025-04-18 14:43:50,018 - __main__ - INFO - 提取产品: Sweet Maria's 10 Speed Blend
+2025-04-18 14:43:50,085 - __main__ - INFO - 提取产品: Guatemala Libertad Aurelio del Cerro
+2025-04-18 14:43:50,150 - __main__ - INFO - 提取产品: Guatemala Patzún Finca Santa Anita
+2025-04-18 14:43:50,217 - __main__ - INFO - 提取产品: Guatemala Xinabajul Rosalio Villatoro
+2025-04-18 14:43:50,284 - __main__ - INFO - 提取产品: Honduras Edwin Ever Sabillon Parainema
+2025-04-18 14:43:50,346 - __main__ - INFO - 提取产品: Honduras Teodosa Moreno Parainema
+2025-04-18 14:43:50,410 - __main__ - INFO - 提取产品: Nicaragua Buenos Aires Java
+2025-04-18 14:43:50,474 - __main__ - INFO - 提取产品: Colombia Samaria Farm EA Decaf
+2025-04-18 14:43:50,544 - __main__ - INFO - 提取产品: East Africa Nya-Nye SWP Decaf
+2025-04-18 14:43:50,610 - __main__ - INFO - 提取产品: Ethiopia Godina Guji SWP Decaf
+2025-04-18 14:43:50,679 - __main__ - INFO - 提取产品: Sweet Marias Cordillera Central SWP Decaf
+2025-04-18 14:43:50,744 - __main__ - INFO - 提取产品: Flores Wet Hulled Turelelo
+2025-04-18 14:43:50,811 - __main__ - INFO - 提取产品: Java Sunda Anaerobic Honey Puncak Sirna
+2025-04-18 14:43:50,879 - __main__ - INFO - 提取产品: Java Sunda Cimara
+2025-04-18 14:43:50,943 - __main__ - INFO - 提取产品: Java Sunda Wet Hulled Laspada
+2025-04-18 14:43:51,011 - __main__ - INFO - 提取产品: Java Sunda Wet Process Siki Alit
+2025-04-18 14:43:51,075 - __main__ - INFO - 提取产品: Sulawesi Kahayya Village
+2025-04-18 14:43:51,138 - __main__ - INFO - 提取产品: Timor Leste Aifu Ermera
+2025-04-18 14:43:51,267 - __main__ - INFO - 提取产品: Colombia Inzá Vereda Belén
+2025-04-18 14:43:51,333 - __main__ - INFO - 提取产品: Peru Cajamarca Las Delicias
+2025-04-18 14:43:51,404 - __main__ - INFO - 提取产品: Sweet Maria's Decaf Espresso "Donkey" Blend
+2025-04-18 14:43:51,466 - __main__ - INFO - 提取产品: Sweet Maria's Espresso Monkey Blend
+2025-04-18 14:43:51,526 - __main__ - INFO - 提取产品: Sweet Maria's Ethiopiques Version 2.0
+2025-04-18 14:43:51,588 - __main__ - INFO - 提取产品: Sweet Maria's New Classic Espresso
+2025-04-18 14:43:51,588 - __main__ - INFO - 爬虫任务耗时 122.59 秒
+2025-04-18 14:43:51,590 - __main__ - INFO - 已保存 41 个产品到 F:\rawBeans\results\coffee_shrub_20250418_144351.json
+2025-04-18 14:43:51,590 - __main__ - INFO - 关闭WebDriver
+2025-04-18 14:49:15,126 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 14:49:22,843 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 14:49:23,703 - __main__ - INFO - 应用了stealth JS脚本
+2025-04-18 14:49:23,703 - __main__ - INFO - 正在预热浏览器...
+2025-04-18 15:05:27,504 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 15:05:59,193 - __main__ - INFO - 开始爬取Coffee Shrub网站数据，结果将保存到 F:\rawBeans\results 目录
+2025-04-18 15:06:04,306 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\zhaoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-18 15:06:05,171 - __main__ - INFO - 应用了stealth JS脚本
+2025-04-18 15:06:05,171 - __main__ - INFO - 正在预热浏览器...
+2025-04-18 15:06:12,877 - __main__ - INFO - 访问Coffee Shrub首页...
+2025-04-18 15:06:20,288 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 15:06:20,387 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 15:06:40,191 - __main__ - INFO - 模拟用户交互行为...
+2025-04-18 15:06:55,406 - __main__ - WARNING - 模拟用户行为失败: Message: move target out of bounds
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00378073+60707]
+	GetHandleVerifier [0x003780B4+60772]
+	(No symbol) [0x001A04FE]
+	(No symbol) [0x00236CA2]
+	(No symbol) [0x0020D04C]
+	(No symbol) [0x0022E824]
+	(No symbol) [0x0020CE46]
+	(No symbol) [0x001DC5D3]
+	(No symbol) [0x001DD424]
+	GetHandleVerifier [0x005BBB53+2435075]
+	GetHandleVerifier [0x005B70F3+2416035]
+	GetHandleVerifier [0x005D349C+2531660]
+	GetHandleVerifier [0x0038F145+155125]
+	GetHandleVerifier [0x00395AED+182173]
+	GetHandleVerifier [0x0037F948+91640]
+	GetHandleVerifier [0x0037FAF0+92064]
+	GetHandleVerifier [0x0036A5B0+4704]
+	BaseThreadInitThunk [0x75AD7BA9+25]
+	RtlInitializeExceptionChain [0x76EBC2EB+107]
+	RtlClearBits [0x76EBC26F+191]
+	(No symbol) [0x00000000]
+
+2025-04-18 15:06:55,407 - __main__ - INFO - 访问目标页面: https://www.coffeeshrub.com/green-coffee.html?product_list_limit=all&sm_status=1
+2025-04-18 15:07:07,501 - __main__ - INFO - 等待Cloudflare验证...
+2025-04-18 15:07:07,650 - __main__ - INFO - 找到页面内容: .product-item
+2025-04-18 15:07:12,665 - __main__ - INFO - 页面加载完成，找到元素: .product-item
+2025-04-18 15:07:12,665 - __main__ - INFO - 等待JS完全加载...
+2025-04-18 15:07:32,665 - __main__ - INFO - 模拟用户浏览行为...
+2025-04-18 15:08:02,102 - __main__ - INFO - 页面加载完成，准备解析内容
+2025-04-18 15:08:02,159 - __main__ - INFO - 保存HTML到 F:\rawBeans\results\coffee_shrub_debug.html
+2025-04-18 15:08:02,159 - __main__ - INFO - 尝试使用选择器: .product-item
+2025-04-18 15:08:02,171 - __main__ - INFO - 使用选择器 '.product-item' 找到 41 个产品
+2025-04-18 15:08:02,324 - __main__ - INFO - 提取产品: Burundi Kabarore Commune Yandaro
+2025-04-18 15:08:02,397 - __main__ - INFO - 提取产品: Burundi Kayanza Kibingo Station
+2025-04-18 15:08:02,533 - __main__ - INFO - 提取产品: Ethiopia Dry Process Senna Katta Mountain
+2025-04-18 15:08:02,610 - __main__ - INFO - 提取产品: Ethiopia Dry Process Uraga Raro Boda
+2025-04-18 15:08:02,685 - __main__ - INFO - 提取产品: Ethiopia Dry Process Yirgacheffe Banko Gotiti
+2025-04-18 15:08:02,761 - __main__ - INFO - 提取产品: Ethiopia Guji Benti Nenka
+2025-04-18 15:08:02,847 - __main__ - INFO - 提取产品: Kenya Nyeri Chinga AB
+2025-04-18 15:08:02,937 - __main__ - INFO - 提取产品: Kenya Nyeri Kamoini AA
+2025-04-18 15:08:03,012 - __main__ - INFO - 提取产品: Rwanda Dry Process Macuba
+2025-04-18 15:08:03,094 - __main__ - INFO - 提取产品: Rwanda Milles Collines Peaberry
+2025-04-18 15:08:03,165 - __main__ - INFO - 提取产品: Rwanda Nyamasheke Gitwe
+2025-04-18 15:08:03,236 - __main__ - INFO - 提取产品: Rwanda Nyamasheke Nyungwe
+2025-04-18 15:08:03,309 - __main__ - INFO - 提取产品: Rwanda Rusizi Mushaka
+2025-04-18 15:08:03,406 - __main__ - INFO - 提取产品: Rwanda Rutsiro Mushonyi
+2025-04-18 15:08:03,482 - __main__ - INFO - 提取产品: Tanzania Mbozi Lukululu Peaberry
+2025-04-18 15:08:03,552 - __main__ - INFO - 提取产品: Tanzania Ruvuma Makonga Peaberry
+2025-04-18 15:08:03,626 - __main__ - INFO - 提取产品: Sweet Maria's 10 Speed Blend
+2025-04-18 15:08:03,720 - __main__ - INFO - 提取产品: Guatemala Libertad Aurelio del Cerro
+2025-04-18 15:08:03,802 - __main__ - INFO - 提取产品: Guatemala Patzún Finca Santa Anita
+2025-04-18 15:08:03,874 - __main__ - INFO - 提取产品: Guatemala Xinabajul Rosalio Villatoro
+2025-04-18 15:08:03,946 - __main__ - INFO - 提取产品: Honduras Edwin Ever Sabillon Parainema
+2025-04-18 15:08:04,022 - __main__ - INFO - 提取产品: Honduras Teodosa Moreno Parainema
+2025-04-18 15:08:04,095 - __main__ - INFO - 提取产品: Nicaragua Buenos Aires Java
+2025-04-18 15:08:04,165 - __main__ - INFO - 提取产品: Colombia Samaria Farm EA Decaf
+2025-04-18 15:08:04,240 - __main__ - INFO - 提取产品: East Africa Nya-Nye SWP Decaf
+2025-04-18 15:08:04,310 - __main__ - INFO - 提取产品: Ethiopia Godina Guji SWP Decaf
+2025-04-18 15:08:04,382 - __main__ - INFO - 提取产品: Sweet Marias Cordillera Central SWP Decaf
+2025-04-18 15:08:04,455 - __main__ - INFO - 提取产品: Flores Wet Hulled Turelelo
+2025-04-18 15:08:04,561 - __main__ - INFO - 提取产品: Java Sunda Anaerobic Honey Puncak Sirna
+2025-04-18 15:08:04,636 - __main__ - INFO - 提取产品: Java Sunda Cimara
+2025-04-18 15:08:04,710 - __main__ - INFO - 提取产品: Java Sunda Wet Hulled Laspada
+2025-04-18 15:08:04,783 - __main__ - INFO - 提取产品: Java Sunda Wet Process Siki Alit
+2025-04-18 15:08:04,856 - __main__ - INFO - 提取产品: Sulawesi Kahayya Village
+2025-04-18 15:08:04,927 - __main__ - INFO - 提取产品: Timor Leste Aifu Ermera
+2025-04-18 15:08:05,074 - __main__ - INFO - 提取产品: Colombia Inzá Vereda Belén
+2025-04-18 15:08:05,145 - __main__ - INFO - 提取产品: Peru Cajamarca Las Delicias
+2025-04-18 15:08:05,216 - __main__ - INFO - 提取产品: Sweet Maria's Decaf Espresso "Donkey" Blend
+2025-04-18 15:08:05,287 - __main__ - INFO - 提取产品: Sweet Maria's Espresso Monkey Blend
+2025-04-18 15:08:05,394 - __main__ - INFO - 提取产品: Sweet Maria's Ethiopiques Version 2.0
+2025-04-18 15:08:05,467 - __main__ - INFO - 提取产品: Sweet Maria's New Classic Espresso
+2025-04-18 15:08:05,467 - __main__ - INFO - 爬虫任务耗时 126.27 秒
+2025-04-18 15:08:05,468 - __main__ - INFO - 已保存 41 个产品到 F:\rawBeans\results\coffee_shrub_20250418_150805.json
+2025-04-18 15:08:05,468 - __main__ - INFO - 关闭WebDriver

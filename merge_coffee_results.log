@@ -1,0 +1,105 @@
+2025-04-18 14:08:54,414 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 14:08:54,415 - root - INFO - 找到 sweet_marias 的最新文件: sweet_marias_20250418_140537.json
+2025-04-18 14:08:54,415 - root - INFO - 找到 coffee_shrub 的最新文件: coffee_shrub_20250418_135032.json
+2025-04-18 14:08:54,416 - root - INFO - 从 sweet_marias_20250418_140537.json 加载了 88 条记录
+2025-04-18 14:08:54,416 - root - INFO - 从 coffee_shrub_20250418_135032.json 加载了 1 条记录
+2025-04-18 14:08:54,416 - root - INFO - 处理来源: sweet_marias, 产品数量: 88
+2025-04-18 14:08:54,563 - root - INFO - 处理来源: coffee_shrub, 产品数量: 1
+2025-04-18 14:09:22,653 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 14:09:22,653 - root - WARNING - 未找到 sweet_marias 的文件
+2025-04-18 14:09:22,654 - root - WARNING - 未找到 coffee_shrub 的文件
+2025-04-18 14:09:22,654 - __main__ - ERROR - 未找到任何数据文件
+2025-04-18 14:10:35,514 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 14:10:35,515 - root - INFO - 找到 sweet_marias 的HTML调试文件: sweet_marias_debug.html
+2025-04-18 14:10:35,515 - root - WARNING - 没有找到 sweet_marias 的JSON文件，将尝试从HTML中提取数据
+2025-04-18 14:10:35,515 - root - INFO - 找到 coffee_shrub 的HTML调试文件: coffee_shrub_debug.html
+2025-04-18 14:10:35,515 - root - WARNING - 没有找到 coffee_shrub 的JSON文件，将尝试从HTML中提取数据
+2025-04-18 14:10:35,516 - root - INFO - 尝试从HTML文件 sweet_marias_debug.html 解析数据
+2025-04-18 14:10:35,772 - root - INFO - 使用选择器 '.product-item' 在HTML中找到 88 个产品
+2025-04-18 14:10:35,807 - root - INFO - 从HTML文件中提取了 88 个产品
+2025-04-18 14:10:35,808 - root - INFO - 尝试从HTML文件 coffee_shrub_debug.html 解析数据
+2025-04-18 14:10:35,910 - root - INFO - 使用选择器 '.product-item' 在HTML中找到 42 个产品
+2025-04-18 14:10:35,927 - root - INFO - 从HTML文件中提取了 42 个产品
+2025-04-18 14:10:35,927 - root - INFO - 处理来源: sweet_marias, 产品数量: 88
+2025-04-18 14:10:36,079 - root - INFO - 处理来源: coffee_shrub, 产品数量: 42
+2025-04-18 14:10:36,146 - root - INFO - 合并后总产品数: 89
+2025-04-18 14:10:36,148 - root - INFO - 已保存 89 条合并记录到 F:\rawBeans\results\merged_coffee_data_20250418_141036.json
+2025-04-18 14:10:36,148 - __main__ - INFO - 合并完成! 文件保存到: F:\rawBeans\results\merged_coffee_data_20250418_141036.json
+2025-04-18 14:10:36,148 - __main__ - INFO - 合并处理完成
+2025-04-18 14:45:49,793 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 14:45:49,793 - root - INFO - 找到 sweet_marias 的最新JSON文件: sweet_marias_20250418_144437.json
+2025-04-18 14:45:49,793 - root - INFO - 找到 coffee_shrub 的最新JSON文件: coffee_shrub_20250418_144351.json
+2025-04-18 14:45:49,793 - root - INFO - 从 sweet_marias_20250418_144437.json 加载了 88 条记录
+2025-04-18 14:45:49,793 - root - INFO - 从 coffee_shrub_20250418_144351.json 加载了 41 条记录
+2025-04-18 14:45:49,794 - root - INFO - 处理来源: sweet_marias, 产品数量: 88
+2025-04-18 14:45:49,935 - root - INFO - 处理来源: coffee_shrub, 产品数量: 41
+2025-04-18 14:45:49,997 - root - INFO - 合并后总产品数: 88
+2025-04-18 14:45:50,000 - root - INFO - 已保存 88 条合并记录到 F:\rawBeans\results\merged_coffee_data_20250418_144549.json
+2025-04-18 14:45:50,000 - __main__ - INFO - 合并完成! 文件保存到: F:\rawBeans\results\merged_coffee_data_20250418_144549.json
+2025-04-18 14:45:50,000 - __main__ - INFO - 合并处理完成
+2025-04-18 14:55:04,546 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 14:55:04,547 - root - INFO - 找到 sweet_marias 的最新JSON文件: sweet_marias_20250418_144437.json
+2025-04-18 14:55:04,547 - root - INFO - 找到 coffee_shrub 的最新JSON文件: coffee_shrub_20250418_144351.json
+2025-04-18 14:55:04,548 - root - INFO - 从 sweet_marias_20250418_144437.json 加载了 88 条记录
+2025-04-18 14:55:04,548 - root - INFO - 从 coffee_shrub_20250418_144351.json 加载了 41 条记录
+2025-04-18 14:55:04,548 - root - INFO - 处理来源: sweet_marias, 产品数量: 88
+2025-04-18 14:55:04,694 - root - INFO - 处理来源: coffee_shrub, 产品数量: 41
+2025-04-18 14:55:04,760 - root - INFO - 合并后总产品数: 88
+2025-04-18 14:55:04,761 - root - INFO - 已保存 88 条合并记录到 F:\rawBeans\results\merged_coffee_data_20250418_145504.json
+2025-04-18 14:55:04,762 - __main__ - INFO - 合并完成! 文件保存到: F:\rawBeans\results\merged_coffee_data_20250418_145504.json
+2025-04-18 14:55:04,762 - __main__ - INFO - 合并处理完成
+2025-04-18 14:55:28,878 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 14:55:28,879 - root - INFO - 找到 sweet_marias 的最新JSON文件: sweet_marias_20250418_144437.json
+2025-04-18 14:55:28,879 - root - INFO - 找到 coffee_shrub 的最新JSON文件: coffee_shrub_20250418_144351.json
+2025-04-18 14:55:28,880 - root - INFO - 从 sweet_marias_20250418_144437.json 加载了 88 条记录
+2025-04-18 14:55:28,880 - root - INFO - 从 coffee_shrub_20250418_144351.json 加载了 41 条记录
+2025-04-18 14:55:28,880 - root - INFO - 处理来源: sweet_marias, 产品数量: 88
+2025-04-18 14:55:29,032 - root - INFO - 处理来源: coffee_shrub, 产品数量: 41
+2025-04-18 14:55:29,109 - root - INFO - 合并后总产品数: 97
+2025-04-18 14:55:29,110 - root - INFO - 已保存 97 条合并记录到 F:\rawBeans\results\merged_coffee_data_20250418_145529.json
+2025-04-18 14:55:29,110 - __main__ - INFO - 合并完成! 文件保存到: F:\rawBeans\results\merged_coffee_data_20250418_145529.json
+2025-04-18 14:55:29,112 - __main__ - INFO - 合并处理完成
+2025-04-18 15:03:46,366 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 15:03:46,368 - root - INFO - 找到 sweet_marias 的最新JSON文件: sweet_marias_20250418_144437.json
+2025-04-18 15:03:46,369 - root - INFO - 找到 coffee_shrub 的最新JSON文件: coffee_shrub_20250418_144351.json
+2025-04-18 15:03:46,369 - root - INFO - 从 sweet_marias_20250418_144437.json 加载了 88 条记录
+2025-04-18 15:03:46,369 - root - INFO - 从 coffee_shrub_20250418_144351.json 加载了 41 条记录
+2025-04-18 15:03:46,370 - root - INFO - 处理来源: sweet_marias, 产品数量: 88
+2025-04-18 15:03:46,520 - root - INFO - 处理来源: coffee_shrub, 产品数量: 41
+2025-04-18 15:03:46,552 - root - INFO - 合并后总产品数: 129
+2025-04-18 15:03:46,555 - root - INFO - 已保存 129 条合并记录到 F:\rawBeans\results\merged_coffee_data_20250418_150346.json
+2025-04-18 15:03:46,555 - __main__ - INFO - 合并完成! 文件保存到: F:\rawBeans\results\merged_coffee_data_20250418_150346.json
+2025-04-18 15:03:46,555 - __main__ - INFO - 合并处理完成
+2025-04-18 15:06:44,060 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 15:06:44,061 - root - INFO - 找到 sweet_marias 的最新JSON文件: sweet_marias_20250418_144437.json
+2025-04-18 15:06:44,061 - root - INFO - 找到 coffee_shrub 的最新JSON文件: coffee_shrub_20250418_144351.json
+2025-04-18 15:06:44,061 - root - INFO - 从 sweet_marias_20250418_144437.json 加载了 88 条记录
+2025-04-18 15:06:44,061 - root - INFO - 从 coffee_shrub_20250418_144351.json 加载了 41 条记录
+2025-04-18 15:06:44,063 - root - INFO - 处理来源: sweet_marias, 产品数量: 88
+2025-04-18 15:06:44,208 - root - INFO - 处理来源: coffee_shrub, 产品数量: 41
+2025-04-18 15:06:44,238 - root - INFO - 合并后总产品数: 129
+2025-04-18 15:06:44,239 - root - INFO - 已保存 129 条合并记录到 F:\rawBeans\results\merged_coffee_data_20250418_150644.json
+2025-04-18 15:06:44,239 - __main__ - INFO - 合并完成! 文件保存到: F:\rawBeans\results\merged_coffee_data_20250418_150644.json
+2025-04-18 15:06:44,239 - __main__ - INFO - 合并处理完成
+2025-04-18 15:14:59,852 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 15:14:59,853 - root - INFO - 找到 sweet_marias 的最新JSON文件: sweet_marias_20250418_144437.json
+2025-04-18 15:14:59,853 - root - INFO - 找到 coffee_shrub 的最新JSON文件: coffee_shrub_20250418_150805.json
+2025-04-18 15:14:59,853 - root - INFO - 从 sweet_marias_20250418_144437.json 加载了 88 条记录
+2025-04-18 15:14:59,853 - root - INFO - 从 coffee_shrub_20250418_150805.json 加载了 41 条记录
+2025-04-18 15:14:59,854 - root - INFO - 处理来源: sweet_marias, 产品数量: 88
+2025-04-18 15:15:00,007 - root - INFO - 处理来源: coffee_shrub, 产品数量: 41
+2025-04-18 15:15:00,039 - root - INFO - 合并后总产品数: 129
+2025-04-18 15:15:00,042 - root - INFO - 已保存 129 条合并记录到 F:\rawBeans\results\merged_coffee_data_20250418_151500.json
+2025-04-18 15:15:00,042 - __main__ - INFO - 合并完成! 文件保存到: F:\rawBeans\results\merged_coffee_data_20250418_151500.json
+2025-04-18 15:15:00,042 - __main__ - INFO - 合并处理完成
+2025-04-18 15:22:42,392 - __main__ - INFO - 开始合并Coffee Shrub和Sweet Maria's数据
+2025-04-18 15:22:42,393 - root - INFO - 找到 sweet_marias 的最新JSON文件: sweet_marias_20250418_144437.json
+2025-04-18 15:22:42,393 - root - INFO - 找到 coffee_shrub 的最新JSON文件: coffee_shrub_20250418_150805.json
+2025-04-18 15:22:42,394 - root - INFO - 从 sweet_marias_20250418_144437.json 加载了 88 条记录
+2025-04-18 15:22:42,394 - root - INFO - 从 coffee_shrub_20250418_150805.json 加载了 41 条记录
+2025-04-18 15:22:42,394 - root - INFO - 处理来源: sweet_marias, 产品数量: 88
+2025-04-18 15:22:42,539 - root - INFO - 处理来源: coffee_shrub, 产品数量: 41
+2025-04-18 15:22:42,572 - root - INFO - 合并后总产品数: 129
+2025-04-18 15:22:42,573 - root - INFO - 已保存 129 条合并记录到 F:\rawBeans\results\merged_coffee_data_20250418_152242.json
+2025-04-18 15:22:42,573 - __main__ - INFO - 合并完成! 文件保存到: F:\rawBeans\results\merged_coffee_data_20250418_152242.json
+2025-04-18 15:22:42,573 - __main__ - INFO - 合并处理完成

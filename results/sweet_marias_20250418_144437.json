@@ -1,0 +1,764 @@
+[
+  {
+    "name": "Brazil Dry Process São Joaquim Farm",
+    "price": 8.3,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/brazil-dry-process-sao-joaquim-farm-8231.html",
+    "updated_at": "2025-04-18",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Brazil Yellow Honey Carlos & Dani",
+    "price": 8.1,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/brazil-yellow-honey-carlos-e-dani-8230.html",
+    "updated_at": "2025-04-18",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Burundi Kabarore Commune Yandaro",
+    "price": 8.15,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/burundi-kabarore-commune-yandaro-8207.html",
+    "updated_at": "2025-04-18",
+    "origin": "Burundi"
+  },
+  {
+    "name": "Burundi Kayanza Kibingo Station",
+    "price": 8.25,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/burundi-kayanza-kibingo-station-8205.html",
+    "updated_at": "2025-04-18",
+    "origin": "Burundi"
+  },
+  {
+    "name": "Colombia Buesaco Río Juanambú",
+    "price": null,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/colombia-buesaco-rio-juanambu-8159.html",
+    "updated_at": "2025-04-18",
+    "origin": "Colombia"
+  },
+  {
+    "name": "Colombia Inzá Gonzalo Lizcano",
+    "price": 9.15,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/colombia-inza-gonzalo-lizcano-8154.html",
+    "updated_at": "2025-04-18",
+    "origin": "Colombia"
+  },
+  {
+    "name": "Colombia Inzá Vereda Belén",
+    "price": 8.3,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/colombia-inza-vereda-belen-8150.html",
+    "updated_at": "2025-04-18",
+    "origin": "Colombia"
+  },
+  {
+    "name": "Colombia Samaria Farm EA Decaf",
+    "price": 9.6,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/colombia-samaria-farm-ea-decaf-8234.html",
+    "updated_at": "2025-04-18",
+    "origin": "Colombia"
+  },
+  {
+    "name": "Costa Rica Chirripo Lote Bambú",
+    "price": 8.55,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/costa-rica-chirripo-lote-bambu-7990.html",
+    "updated_at": "2025-04-18",
+    "origin": "Costa Rica"
+  },
+  {
+    "name": "Costa Rica Palmichal Los Santos",
+    "price": 7.55,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/costa-rica-palmichal-los-santos-7987.html",
+    "updated_at": "2025-04-18",
+    "origin": "Costa Rica"
+  },
+  {
+    "name": "Costa Rica Yellow Honey Don Mayo",
+    "price": 8.65,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/costa-rica-yellow-honey-don-mayo-8028.html",
+    "updated_at": "2025-04-18",
+    "origin": "Costa Rica"
+  },
+  {
+    "name": "East Africa Nya-Nye SWP Decaf",
+    "price": 9.45,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/nya-nye-east-africa-swp-decaf-8124.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "El Salvador Atiquizaya Castillo",
+    "price": 7.05,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/el-salvador-atiquizaya-castillo-7959.html",
+    "updated_at": "2025-04-18",
+    "origin": "El Salvador"
+  },
+  {
+    "name": "Ethiopia Dry Process Senna Katta Mountain",
+    "price": null,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/ethiopia-dry-process-senna-katta-mountain-8123.html",
+    "updated_at": "2025-04-18",
+    "origin": "Ethiopia"
+  },
+  {
+    "name": "Ethiopia Dry Process Uraga Raro Boda",
+    "price": 9.15,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/ethiopia-dry-process-uraga-raro-boda-8038.html",
+    "updated_at": "2025-04-18",
+    "origin": "Ethiopia"
+  },
+  {
+    "name": "Ethiopia Dry Process Yirgacheffe Banko Gotiti",
+    "price": 9.1,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/ethiopia-dry-process-yirgacheffe-banko-gotiti-8133.html",
+    "updated_at": "2025-04-18",
+    "origin": "Ethiopia"
+  },
+  {
+    "name": "Ethiopia Godina Guji SWP Decaf",
+    "price": 9.75,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/ethiopia-godina-guji-swp-decaf-8125.html",
+    "updated_at": "2025-04-18",
+    "origin": "Ethiopia"
+  },
+  {
+    "name": "Ethiopia Guji Benti Nenka",
+    "price": 8.55,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/ethiopia-guji-benti-nenka-8131.html",
+    "updated_at": "2025-04-18",
+    "origin": "Ethiopia"
+  },
+  {
+    "name": "Flores Wet Hulled Turelelo",
+    "price": 8.55,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/flores-wet-hulled-turelelo-8188.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Flores Wolo Wio",
+    "price": 8.05,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/flores-wolo-wio-8187.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Gift Subscription: Green Coffee",
+    "price": 25.85,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/green-coffee-subscription-gift.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Gift Subscription: Roasted Coffee",
+    "price": 40.0,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/roasted-subscription-gift.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Green Coffee Subscription",
+    "price": 25.85,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/green-coffee-subscription.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Guatemala Antigua Finca Cabrejo 2",
+    "price": 8.85,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/guatemala-antigua-finca-cabrejo-2-8106.html",
+    "updated_at": "2025-04-18",
+    "origin": "Guatemala"
+  },
+  {
+    "name": "Guatemala Libertad Aurelio del Cerro",
+    "price": 8.85,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/guatemala-libertad-aurelio-del-cerro-8043.html",
+    "updated_at": "2025-04-18",
+    "origin": "Guatemala"
+  },
+  {
+    "name": "Guatemala Patzún Finca Santa Anita",
+    "price": 8.95,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/guatemala-patzun-finca-santa-anita-8111.html",
+    "updated_at": "2025-04-18",
+    "origin": "Guatemala"
+  },
+  {
+    "name": "Guatemala Xinabajul Rosalio Villatoro",
+    "price": 8.6,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/guatemala-xinabajul-rosalio-villatoro-8050.html",
+    "updated_at": "2025-04-18",
+    "origin": "Guatemala"
+  },
+  {
+    "name": "Honduras Edwin Ever Sabillon Parainema",
+    "price": 8.75,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/honduras-edwin-ever-sabillon-parainema-8213.html",
+    "updated_at": "2025-04-18",
+    "origin": "Honduras"
+  },
+  {
+    "name": "Honduras Teodosa Moreno Parainema",
+    "price": 8.9,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/honduras-teodosa-moreno-parainema-8217.html",
+    "updated_at": "2025-04-18",
+    "origin": "Honduras"
+  },
+  {
+    "name": "India Muthodi Garige Khan Estate",
+    "price": 7.15,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/india-muthodi-garige-khan-estate-8056.html",
+    "updated_at": "2025-04-18",
+    "origin": "India"
+  },
+  {
+    "name": "India Yercaud Balmadi Estate",
+    "price": 7.3,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/india-yercaud-balmadi-estate-8057.html",
+    "updated_at": "2025-04-18",
+    "origin": "India"
+  },
+  {
+    "name": "Indonesia Nusantara SWP Decaf",
+    "price": 8.85,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/indonesia-nusantara-swp-decaf-7855.html",
+    "updated_at": "2025-04-18",
+    "origin": "Indonesia"
+  },
+  {
+    "name": "Java Sunda Anaerobic Honey Puncak Sirna",
+    "price": 8.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/java-sunda-anaerobic-honey-puncak-sirna-8184.html",
+    "updated_at": "2025-04-18",
+    "origin": "Java"
+  },
+  {
+    "name": "Java Sunda Cimara",
+    "price": 8.55,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/java-sunda-cimara-8149.html",
+    "updated_at": "2025-04-18",
+    "origin": "Java"
+  },
+  {
+    "name": "Java Sunda Wet Hulled Laspada",
+    "price": 8.65,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/java-sunda-wet-hulled-laspada-8148.html",
+    "updated_at": "2025-04-18",
+    "origin": "Java"
+  },
+  {
+    "name": "Java Sunda Wet Process Siki Alit",
+    "price": 8.45,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/java-sunda-wet-process-siki-alit-8193.html",
+    "updated_at": "2025-04-18",
+    "origin": "Java"
+  },
+  {
+    "name": "Kenya Muranga Kangunu AA",
+    "price": 8.75,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/kenya-muranga-kangunu-aa-8004.html",
+    "updated_at": "2025-04-18",
+    "origin": "Kenya"
+  },
+  {
+    "name": "Kenya Nyeri Chinga AB",
+    "price": 8.9,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/kenya-nyeri-chinga-ab-8115.html",
+    "updated_at": "2025-04-18",
+    "origin": "Kenya"
+  },
+  {
+    "name": "Kenya Nyeri Kamoini AA",
+    "price": 9.35,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/kenya-nyeri-kamoini-aa-8085.html",
+    "updated_at": "2025-04-18",
+    "origin": "Kenya"
+  },
+  {
+    "name": "Kenya Nyeri Mihuti AA",
+    "price": 8.95,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/kenya-nyeri-mihuti-aa-8009.html",
+    "updated_at": "2025-04-18",
+    "origin": "Kenya"
+  },
+  {
+    "name": "Kenya Nyeri Rukira Peaberry",
+    "price": 16.6,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/kenya-nyeri-rukira-peaberry-8117.html",
+    "updated_at": "2025-04-18",
+    "origin": "Kenya"
+  },
+  {
+    "name": "Kenya Othaya Gura AA",
+    "price": 8.35,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/kenya-othaya-gura-aa-8089.html",
+    "updated_at": "2025-04-18",
+    "origin": "Kenya"
+  },
+  {
+    "name": "Kenya Othaya Mahiga AA",
+    "price": 8.95,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/kenya-othaya-mahiga-aa-8114.html",
+    "updated_at": "2025-04-18",
+    "origin": "Kenya"
+  },
+  {
+    "name": "Nicaragua Buenos Aires Java",
+    "price": 8.65,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/nicaragua-buenos-aires-java-7948.html",
+    "updated_at": "2025-04-18",
+    "origin": "Nicaragua"
+  },
+  {
+    "name": "Nicaragua Dipilto Monte Libano",
+    "price": 7.1,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/nicaragua-dipilto-monte-libano-7944.html",
+    "updated_at": "2025-04-18",
+    "origin": "Nicaragua"
+  },
+  {
+    "name": "Nicaragua Dry Process El Suyatal",
+    "price": 8.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/nicaragua-dry-process-el-suyatal-7952.html",
+    "updated_at": "2025-04-18",
+    "origin": "Nicaragua"
+  },
+  {
+    "name": "Peru Cajamarca Las Delicias",
+    "price": 8.3,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/peru-cajamarca-las-delicias-8198.html",
+    "updated_at": "2025-04-18",
+    "origin": "Peru"
+  },
+  {
+    "name": "Peru San Ignacio Ihuamaca",
+    "price": 7.95,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/peru-san-ignacio-ihuamaca-8199.html",
+    "updated_at": "2025-04-18",
+    "origin": "Peru"
+  },
+  {
+    "name": "Roasted Coffee  4/15: Burundi Kayanza Kibingo Station",
+    "price": 20.0,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/roasted-coffee-burundi-kayanza-kibingo-station-8205.html",
+    "updated_at": "2025-04-18",
+    "origin": "Burundi"
+  },
+  {
+    "name": "Roasted Coffee  4/15: Guatemala Libertad Aurelio del Cerro",
+    "price": 20.0,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/roasted-coffee-guatemala-libertad-aurelio-del-cerro-8043.html",
+    "updated_at": "2025-04-18",
+    "origin": "Guatemala"
+  },
+  {
+    "name": "Roasted Coffee Subscription",
+    "price": 40.0,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/rstd-subs-1050.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Roasted Espresso 4/15: Sweet Maria's Altiplano Blend",
+    "price": 20.0,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/roasted-coffee-sweet-maria-s-altiplano-blend-4810.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Roasted Espresso 4/15: Sweet Maria's Espresso Monkey Blend",
+    "price": 20.0,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/roasted-coffee-sweet-maria-s-espresso-monkey-blend-2653.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Roasted Espresso 4/1: Sweet Maria's New Classic Espresso",
+    "price": 20.0,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/roasted-coffee-sweet-maria-s-new-classic-espresso-2933-1.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Rwanda Dry Process Macuba",
+    "price": 8.75,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/rwanda-dry-process-macuba-8168.html",
+    "updated_at": "2025-04-18",
+    "origin": "Rwanda"
+  },
+  {
+    "name": "Rwanda Milles Collines Peaberry",
+    "price": 7.85,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/rwanda-milles-collines-peaberry-8144.html",
+    "updated_at": "2025-04-18",
+    "origin": "Rwanda"
+  },
+  {
+    "name": "Rwanda Nyamasheke Gitwe",
+    "price": 8.4,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/rwanda-nyamasheke-gitwe-8136.html",
+    "updated_at": "2025-04-18",
+    "origin": "Rwanda"
+  },
+  {
+    "name": "Rwanda Nyamasheke Nyungwe",
+    "price": 8.45,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/rwanda-nyamasheke-nyungwe-8139.html",
+    "updated_at": "2025-04-18",
+    "origin": "Rwanda"
+  },
+  {
+    "name": "Rwanda Rusizi Mushaka",
+    "price": 8.25,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/rwanda-rusizi-mushaka-8137.html",
+    "updated_at": "2025-04-18",
+    "origin": "Rwanda"
+  },
+  {
+    "name": "Rwanda Rutsiro Mushonyi",
+    "price": 8.3,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/rwanda-rutsiro-mushonyi-8170.html",
+    "updated_at": "2025-04-18",
+    "origin": "Rwanda"
+  },
+  {
+    "name": "Set: 10 lb \"XL\" East Africa Set",
+    "price": 78.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/xl-east-africa-set.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Set: 10 lb \"XL\" Latin America Set",
+    "price": 75.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/10-lb-xl-latin-america-coffee-set-002.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Set: Box of Chocolates Flavor Set",
+    "price": 30.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/box-of-chocolates-flavor-set.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Set: Decaf Green Coffee Sampler",
+    "price": 32.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/green-coffee-decaf-sample-set-4-pounds-1.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Set: DIY Moka Java Blend Set",
+    "price": 32.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/diy-moka-java-blend-set-mkjv.html",
+    "updated_at": "2025-04-18",
+    "origin": "Java"
+  },
+  {
+    "name": "Set: Espresso Green Coffee Sampler",
+    "price": 29.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/green-coffee-sample-set-espresso.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Set: Fruit Basket Flavor Set",
+    "price": 33.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/fruit-basket-flavor-set.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Set: Half Regular/Half Decaf Green Coffee Sampler",
+    "price": 31.0,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/green-coffee-sample-set-half-half.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Set: Latest Coffee Additions",
+    "price": 8.3,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/latest-additions-coffee-set.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Set: Mini Green Coffee Sampler",
+    "price": 17.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/green-coffee-mini-sample-set.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Set: Regular Green Coffee Sampler",
+    "price": 29.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/green-coffee-sample-set-regular.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Sulawesi Dry Process Desa Topidi",
+    "price": 11.55,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sulawesi-dry-process-desa-topidi-8192.html",
+    "updated_at": "2025-04-18",
+    "origin": "Sulawesi"
+  },
+  {
+    "name": "Sulawesi Kahayya Village",
+    "price": 8.25,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sulawesi-kahayya-village-8191.html",
+    "updated_at": "2025-04-18",
+    "origin": "Sulawesi"
+  },
+  {
+    "name": "Sulawesi Wet Hulled Luwu Seko",
+    "price": 8.05,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sulawesi-wet-hulled-luwu-seko-8190.html",
+    "updated_at": "2025-04-18",
+    "origin": "Sulawesi"
+  },
+  {
+    "name": "Sweet Maria's 10 Speed Blend",
+    "price": 7.95,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-marias-10-speed-blend-7834.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Sweet Maria's Altiplano Blend",
+    "price": 7.5,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-maria-s-altiplano-blend.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Sweet Maria's Decaf Espresso \"Donkey\" Blend",
+    "price": 8.95,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-maria-s-decaf-espresso-donkey-blend.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Sweet Maria's Espresso Monkey Blend",
+    "price": 7.75,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-maria-s-espresso-monkey-blend.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Sweet Maria's Ethiopiques Version 2.0",
+    "price": 8.45,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-maria-s-ethiopiques-version-2-0-6113.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Sweet Maria's Liquid Amber Espresso Blend",
+    "price": 7.85,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-maria-s-liquid-amber-espresso-blend.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Sweet Maria's Moka Java SWP Decaf Blend",
+    "price": 8.95,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-marias-moka-java-swp-decaf-7550.html",
+    "updated_at": "2025-04-18",
+    "origin": "Java"
+  },
+  {
+    "name": "Sweet Maria's Moka Kadir Blend",
+    "price": 8.95,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-marias-moka-kadir-blend-4463.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Sweet Maria's New Classic Espresso",
+    "price": 7.75,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-maria-s-new-classic-espresso.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Sweet Marias Cordillera Central SWP Decaf",
+    "price": 9.05,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/sweet-marias-cordillera-central-swp-decaf-7981.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Tanzania Mbozi Lukululu Peaberry",
+    "price": 8.65,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/tanzania-mbozi-lukululu-peaberry-8233.html",
+    "updated_at": "2025-04-18",
+    "origin": "Tanzania"
+  },
+  {
+    "name": "Tanzania Ruvuma Makonga Peaberry",
+    "price": 8.85,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/tanzania-ruvuma-makonga-peaberry-8236.html",
+    "updated_at": "2025-04-18",
+    "origin": "Tanzania"
+  },
+  {
+    "name": "Timor Leste Aifu Ermera",
+    "price": 8.25,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/timor-leste-aifu-ermera-8232.html",
+    "updated_at": "2025-04-18"
+  },
+  {
+    "name": "Yemen Mokha Sanani",
+    "price": 11.1,
+    "currency": "USD",
+    "supplier": "Sweet Marias",
+    "url": "https://www.sweetmarias.com/yemen-mokha-sanani-7892.html",
+    "updated_at": "2025-04-18",
+    "origin": "Yemen"
+  }
+]

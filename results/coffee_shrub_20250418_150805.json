@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Burundi Kabarore Commune Yandaro",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 310.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/burundi-kabarore-commune-yandaro-8207.html",
+    "origin": "Burundi",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Burundi Kayanza Kibingo Station",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 315.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/burundi-kayanza-kibingo-station-8205.html",
+    "origin": "Burundi",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Ethiopia Dry Process Senna Katta Mountain",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "url": "https://www.coffeeshrub.com/ethiopia-dry-process-senna-katta-mountain-8123.html",
+    "origin": "Ethiopia",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Ethiopia Dry Process Uraga Raro Boda",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 360.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/ethiopia-dry-process-uraga-raro-boda-8038.html",
+    "origin": "Ethiopia",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Ethiopia Dry Process Yirgacheffe Banko Gotiti",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 357.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/ethiopia-dry-process-yirgacheffe-banko-gotiti-8133.html",
+    "origin": "Ethiopia",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Ethiopia Guji Benti Nenka",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 330.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/ethiopia-guji-benti-nenka-8131.html",
+    "origin": "Ethiopia",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Kenya Nyeri Chinga AB",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 347.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/kenya-nyeri-chinga-ab-8115.html",
+    "origin": "Kenya",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Kenya Nyeri Kamoini AA",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 370.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/kenya-nyeri-kamoini-aa-8085.html",
+    "origin": "Kenya",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Rwanda Dry Process Macuba",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 340.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/rwanda-dry-process-macuba-8168.html",
+    "origin": "Rwanda",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Rwanda Milles Collines Peaberry",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 295.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/rwanda-milles-collines-peaberry-8144.html",
+    "origin": "Rwanda",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Rwanda Nyamasheke Gitwe",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 322.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/rwanda-nyamasheke-gitwe-8136.html",
+    "origin": "Rwanda",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Rwanda Nyamasheke Nyungwe",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 325.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/rwanda-nyamasheke-nyungwe-8139.html",
+    "origin": "Rwanda",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Rwanda Rusizi Mushaka",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 315.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/rwanda-rusizi-mushaka-8137.html",
+    "origin": "Rwanda",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Rwanda Rutsiro Mushonyi",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 317.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/rwanda-rutsiro-mushonyi-8170.html",
+    "origin": "Rwanda",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Tanzania Mbozi Lukululu Peaberry",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 335.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/tanzania-mbozi-lukululu-peaberry-8233.html",
+    "origin": "Tanzania",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Tanzania Ruvuma Makonga Peaberry",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 345.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/tanzania-ruvuma-makonga-peaberry-8236.html",
+    "origin": "Tanzania",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Sweet Maria's 10 Speed Blend",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 302.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/sweet-marias-10-speed-blend-7834.html",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Guatemala Libertad Aurelio del Cerro",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 345.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/guatemala-libertad-aurelio-del-cerro-8043.html",
+    "origin": "Guatemala",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Guatemala Patzún Finca Santa Anita",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 350.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/guatemala-patzun-finca-santa-anita-8111.html",
+    "origin": "Guatemala",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Guatemala Xinabajul Rosalio Villatoro",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 332.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/guatemala-xinabajul-rosalio-villatoro-8050.html",
+    "origin": "Guatemala",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Honduras Edwin Ever Sabillon Parainema",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 340.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/honduras-edwin-ever-sabillon-parainema-8213.html",
+    "origin": "Honduras",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Honduras Teodosa Moreno Parainema",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 347.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/honduras-teodosa-moreno-parainema-8217.html",
+    "origin": "Honduras",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Nicaragua Buenos Aires Java",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 335.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/nicaragua-buenos-aires-java-7948.html",
+    "origin": "Nicaragua",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Colombia Samaria Farm EA Decaf",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 382.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/colombia-samaria-farm-ea-decaf-8234.html",
+    "origin": "Colombia",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "East Africa Nya-Nye SWP Decaf",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 375.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/nya-nye-east-africa-swp-decaf-8124.html",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Ethiopia Godina Guji SWP Decaf",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 390.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/ethiopia-godina-guji-swp-decaf-8125.html",
+    "origin": "Ethiopia",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Sweet Marias Cordillera Central SWP Decaf",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 355.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/sweet-marias-cordillera-central-swp-decaf-7981.html",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Flores Wet Hulled Turelelo",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 330.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/flores-wet-hulled-turelelo-8188.html",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Java Sunda Anaerobic Honey Puncak Sirna",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 327.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/java-sunda-anaerobic-honey-puncak-sirna-8184.html",
+    "origin": "Java",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Java Sunda Cimara",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 330.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/java-sunda-cimara-8149.html",
+    "origin": "Java",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Java Sunda Wet Hulled Laspada",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 335.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/java-sunda-wet-hulled-laspada-8148.html",
+    "origin": "Java",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Java Sunda Wet Process Siki Alit",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 325.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/java-sunda-wet-process-siki-alit-8193.html",
+    "origin": "Java",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Sulawesi Kahayya Village",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 315.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/sulawesi-kahayya-village-8191.html",
+    "origin": "Sulawesi",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Timor Leste Aifu Ermera",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 315.0,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/timor-leste-aifu-ermera-8232.html",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Brazil Dry Process São Joaquim Farm",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 317.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/brazil-dry-process-sao-joaquim-farm-8231.html",
+    "origin": "Brazil",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Colombia Inzá Vereda Belén",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 317.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/colombia-inza-vereda-belen-8150.html",
+    "origin": "Colombia",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Peru Cajamarca Las Delicias",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 317.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/peru-cajamarca-las-delicias-8198.html",
+    "origin": "Peru",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Sweet Maria's Decaf Espresso \"Donkey\" Blend",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 352.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/sweet-maria-s-decaf-espresso-donkey-blend.html",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Sweet Maria's Espresso Monkey Blend",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 292.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/sweet-maria-s-espresso-monkey-blend.html",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Sweet Maria's Ethiopiques Version 2.0",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 327.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/sweet-marias-ethiopiques-version-2-0-6113.html",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  },
+  {
+    "name": "Sweet Maria's New Classic Espresso",
+    "supplier": "Coffee Shrub",
+    "updated_at": "2025-04-18",
+    "price": 292.5,
+    "currency": "USD",
+    "url": "https://www.coffeeshrub.com/sweet-maria-s-new-classic-espresso.html",
+    "weight": {
+      "value": 1,
+      "unit": "lb"
+    }
+  }
+]

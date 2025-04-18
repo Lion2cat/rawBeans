@@ -1,0 +1,27 @@
+2025-04-18 14:01:53,412 - __main__ - INFO - Starting coffee results merger
+2025-04-18 14:01:53,414 - __main__ - INFO - Loading Coffee Shrub data from F:\rawBeans\results\coffee_shrub_20250418_135032.json
+2025-04-18 14:01:53,414 - __main__ - INFO - Loaded 1 products from Coffee Shrub
+2025-04-18 14:01:53,414 - __main__ - INFO - Loading Sweet Maria's data from F:\rawBeans\results\sweet_marias_20250418_134910.json
+2025-04-18 14:01:53,415 - __main__ - INFO - Loaded 88 products from Sweet Maria's
+2025-04-18 14:01:53,415 - __main__ - INFO - Merged data contains 89 unique products
+2025-04-18 14:01:53,415 - __main__ - INFO - Origin: Unknown, Count: 31
+2025-04-18 14:01:53,415 - __main__ - INFO - Origin: Brazil, Count: 2
+2025-04-18 14:01:53,416 - __main__ - INFO - Origin: Burundi, Count: 3
+2025-04-18 14:01:53,416 - __main__ - INFO - Origin: Colombia, Count: 4
+2025-04-18 14:01:53,416 - __main__ - INFO - Origin: Costa Rica, Count: 3
+2025-04-18 14:01:53,416 - __main__ - INFO - Origin: El Salvador, Count: 1
+2025-04-18 14:01:53,416 - __main__ - INFO - Origin: Ethiopia, Count: 5
+2025-04-18 14:01:53,416 - __main__ - INFO - Origin: Guatemala, Count: 5
+2025-04-18 14:01:53,416 - __main__ - INFO - Origin: Honduras, Count: 2
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: India, Count: 2
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: Indonesia, Count: 1
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: Java, Count: 6
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: Kenya, Count: 7
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: Nicaragua, Count: 3
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: Peru, Count: 2
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: Rwanda, Count: 6
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: Sulawesi, Count: 3
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: Tanzania, Count: 2
+2025-04-18 14:01:53,417 - __main__ - INFO - Origin: Yemen, Count: 1
+2025-04-18 14:01:53,418 - __main__ - INFO - Merged data saved to F:\rawBeans\results\merged_coffee_data_20250418_140153.json
+2025-04-18 14:01:53,418 - __main__ - INFO - Summary saved to F:\rawBeans\results\coffee_data_summary_20250418_140153.json
